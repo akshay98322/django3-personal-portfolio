@@ -1,0 +1,29 @@
+.navbar-nav .nav-link {
+    color: rgba(0,0,0,1) !important;
+    font-family: 'Merriweather', serif;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(0,0,0,.5) !important;
+}
+.navbar-brand{
+    
+    font-family: 'Merriweather', serif;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#blogtitle {
+    font-size: 6rem;
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 4rem;
+    }
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+}
